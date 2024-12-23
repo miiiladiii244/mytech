@@ -4,6 +4,6 @@ This repository contains my personal tech challenges. It serves as a collection 
 
 ## Contents
 
-- [Linux](Linux/CreatingServices.md): Guide on how to create a Systemd service in Linux.
+- [Creating Service in Linux using systemd](Linux/CreatingServices.md): Guide on how to create a Systemd service in Linux.
 
 Feel free to explore and use the resources provided here.
