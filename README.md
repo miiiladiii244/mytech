@@ -6,5 +6,6 @@ This repository contains my personal tech challenges. It serves as a collection 
 
 - [Creating a Service in Linux using systemd](Linux/CreatingServices.md): A guide on how to create a systemd service in Linux.
 - [Setup GPG for GitHub on Windows](Git/SetupGPGForGithubOnWindows.md): A guide on how to create a GPG key on Windows and add it to GitHub.
+- [Setup Nginx reverse proxy and serve requests only to Cloudflare ips](Linux/SetupNginxReverseProxy.md): A guide on how to Setup Nginx reverse proxy and serve requests only to Cloudflare ips.
 
 Feel free to explore and use the resources provided here.
